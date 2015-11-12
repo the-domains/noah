@@ -1,0 +1,23 @@
+name: noah
+favicon: null
+layout_spectrum: 0.04750888445414603
+typography_spectrum: 0.4669309032615274
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.21547362324781716
+  lightness: 0.4018339349422604
+  saturation: 0.8695243669208139
+  rhythmicContrast: 0.0937044401653111
+purpose: []
